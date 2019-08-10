@@ -1,0 +1,22 @@
+{
+  "name": "geo-distance-calculator",
+  "version": "1.0.0",
+  "description": "Its a coding challange by biz2credit",
+  "main": "geo-distance-calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PardeepKashyap/geo-distance-calculator.git"
+  },
+  "keywords": [
+    "geo-distance-calculator"
+  ],
+  "author": "pardeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PardeepKashyap/geo-distance-calculator/issues"
+  },
+  "homepage": "https://github.com/PardeepKashyap/geo-distance-calculator#readme"
+}
